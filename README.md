@@ -12,7 +12,7 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+Ramon's+Domain;The+King+of+Curses+Walks+Again"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+Ramons+Domain;The+King+of+Curses+Walks+Again"
       alt="Typing Animation" />
   </a>
 </p>
@@ -22,14 +22,14 @@
 <!-- Botões de redes sociais -->
 <div align="center" style="margin: 30px 0;">
   <a href="https://discord.com/users/1336111958730080359">
-    <img src="https://img.shields.io/badge/Profile-7289DA?style=for-the-badge&logo=Ramon&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Profile-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>&nbsp;
 
-  <a href="Ramonqwk.vercel.app">
+  <a href="https://ramonqwk.vercel.app">
     <img src="https://img.shields.io/badge/Bio-5865F2?style=for-the-badge&logo=linktree&logoColor=white" alt="BIO" />
   </a>&nbsp;
 
-  <a href="https://open.spotify.com/playlist/3ri65CCAk2K1Pa0ff3SNZy?si=77VcUb3gT2-eP2B6FkDAvw&pi=y-oYWy2UR7qGH">
+  <a href="https://open.spotify.com/playlist/3ri65CCAk2K1Pa0ff3SNZy?si=77VcUb3gT2-eP2B6FkDAvw">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>&nbsp;
 
@@ -51,16 +51,16 @@
   <tr>
     <td>
       <a href="#">
-        <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A" />
+        <img src="https://readme-typing-svg.demolab.com?font=SUSE&size=40&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A" />
       </a>
-      <p align="center">
-        <a href="https://github.com/Ramonqwk/AluraAnswer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramonqwk&repo=Khan-Destroyer&theme=github_dark&title_color=8B0000&icon_color=8B0000&border_color=30363f&border_radius=0" />
-        </a>
-      </p>
       <p align="center">
         <a href="https://github.com/Ramonqwk/SalaDoFuturo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramonqwk&repo=SalaDoFuturo&theme=github_dark&title_color=8B0000&icon_color=8B0000&border_color=30363f&border_radius=0" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Ramonqwk/AluraAnswer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ramonqwk&repo=AluraAnswer&theme=github_dark&title_color=8B0000&icon_color=8B0000&border_color=30363f&border_radius=0" />
         </a>
       </p>
     </td>
