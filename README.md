@@ -12,7 +12,7 @@
 <!-- Texto animado -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+Ramons+Domain;The+King+of+Curses+Walks+Again"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+Ramons+Domain;The+King's+Return"
       alt="Typing Animation" />
   </a>
 </p>
